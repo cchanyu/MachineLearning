@@ -1,0 +1,7 @@
+A file is
+just a bunch of characters
+saved on a disk.
+Another line
+And yet another
+line
+here.

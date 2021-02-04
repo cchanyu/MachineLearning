@@ -1,0 +1,17 @@
+Programming is just giving the computer instructions.
+Instructions so far:
+print("word") - Display word to the screen/console
+Input("Enter something:") - Displays whatever you wrote in the screen.
+
+usual use: x=input("Enter something")
+- display "Enter something:" on screen
+- wait for user input 
+- store user input in x
+
+int("5") - specifies that 5 has type int (integer)
+str() - change to be string type
+float() - change to be float (decimals) type
+len("hello") - computes number of characters in word "hello"
+
+variable-> x=value <-assigns/sets variable x to be value
+(store/save value in variable x)
