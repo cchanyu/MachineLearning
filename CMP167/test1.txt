@@ -1,4 +1,0 @@
-1	def main():
-2		for i in range(10):
-3			print("I love python")
-4		print("Good bye!")
